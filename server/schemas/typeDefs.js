@@ -17,7 +17,6 @@ const typeDefs = `
     title: String
   }
 
-
   type Auth {
     token: ID!
     user: User
